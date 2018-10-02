@@ -1,0 +1,82 @@
+
+h1 {
+    background-image: linear-gradient(to right, purple, pink);
+    color: white;
+    height: 75px;
+    font-size: 48px;
+    font-family: 'Roboto', sans-serif;
+    padding: 10px;
+    
+}
+.heading {
+    padding-bottom: 40px;
+}
+.userField {
+    border: purple;
+    padding-bottom: 10px;
+    width: 90%;
+    padding-left: 30px;
+}
+#new-task {
+    height: 40px;
+    width: 75%;
+    font-size: 18px;
+    color: lightgrey;
+    border-radius: 10px;
+    border-color: purple;
+    padding-right: 10px;
+}
+.fas {
+    font-size: 32px;
+}
+#delete {
+    padding-left: 160px;
+    
+}
+li {
+    background-color: lightgray;
+    border-radius: 8px;
+    padding-left: 40px;
+    padding-bottom: 10px;
+    height: 50px;
+    width: 380px;
+    margin: 5px;
+    margin-left: 20px;
+}
+
+#content {
+    font-size: 32px;
+    width: 60%;
+    height: 40px;
+    border-radius: 10px;
+}
+#delete {
+    width: 10%;
+    height: 40px;
+}
+[type="checkbox"] {
+    height: 40px;
+    width: 10%;
+}
+
+.taskLine {
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.container {
+    height: 100%;
+    width: 65%;
+    border: 5px solid purple;
+    align-content: center;
+    margin-left: 150px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+
+
+
+
